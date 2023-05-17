@@ -4,10 +4,4 @@ langchain
 streamlit
 pypdf
 requests
-unstructured
-validators
-pytesseract
-pdf2image
-tabulate
-nltk
 python-dotenv
