@@ -4,7 +4,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
-from PyPDF2 import PdfReader
+from pypdf import PdfReader
 import streamlit as st
 # from dotenv import load_dotenv
 
