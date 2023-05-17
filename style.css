@@ -4,6 +4,12 @@
   margin-right: auto;
 }
 
+#row-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 a,
 a:hover,
 a:visited {
